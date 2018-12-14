@@ -5,7 +5,7 @@ Trying to reverse enginieer the protocol of Panasonic Aquarea WH-MDC05f3e5 and u
 heatpump Protocoll: (thx Heiko ;))<br>
 960 Baud,8bits,Even Parity Bit,1 Stopbit, Leas significant Bit First, Inverse
 
-Procoll is modbus style: <br>
+Protocoll is modbus style: <br>
 4 Bits are send in a row: <br>
 Remote sends 170,RegisterId,Bit,Checksum <br>
 Heatpump returns 85,RegisterId,Value,Checksum
