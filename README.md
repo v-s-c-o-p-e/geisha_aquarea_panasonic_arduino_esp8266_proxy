@@ -1,5 +1,4 @@
-# geisha_aquarea_panasonic_arduino_esp8266_proxy
-Panasonic Aquarea ESP8266 Arduino WIFI Proxy
+# Geisha Aquarea Panasonic Arduino Esp8266 Wifi Controller
 
 Trying to reverse enginieer the protocol of Panasonic Aquarea WH-MDC05f3e5 and use a microcontroller to control the heatpump over wifi.
 
