@@ -13,7 +13,7 @@ Heatpump returns 85,RegisterId,Value,Checksum
 Current Code for ESP8266 using a 4 port bi-directional LogicLevel converter.
 
 Allready coded a Proof of Concept "Proxy" using 2 SoftwareSerials on ESP8266 to collect the data from remote and send it to heatpump.<br>
-Then receive the respone from heatpump and send it to remote.<br>
+Then receive the response from heatpump and send it to the remote.<br>
 Todo: Send own messages from esp to heatpump.<br>
 
 SerialProxy<br>
