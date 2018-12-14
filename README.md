@@ -6,8 +6,8 @@ heatpump Protocoll: (thx Heiko ;))<br>
 960 Baud,8bits,Even Parity Bit,1 Stopbit, Leas significant Bit First, Inverse
 
 Protocoll is modbus style: <br>
-4 Bits are send in a row: <br>
-Remote sends 170,RegisterId,Bit,Checksum <br>
+4 Bytes are send in a row: <br>
+Remote sends 170,RegisterId,Byte,Checksum <br>
 Heatpump returns 85,RegisterId,Value,Checksum
 
 Current Code for ESP8266 using a 4 port bi-directional LogicLevel converter.
