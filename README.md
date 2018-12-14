@@ -25,4 +25,4 @@ https://github.com/vscope/geisha_aquarea_panasonic_arduino_esp8266_proxy/tree/ma
 Heatpump Dummy for Debugging:<br>
 https://github.com/vscope/geisha_aquarea_panasonic_arduino_esp8266_proxy/tree/master/GeishaSerialHeatPump
 
-Anybody free to join
+Feel free to join.
