@@ -1,0 +1,2 @@
+# geisha_aquarea_panasonic_arduino_esp8266_proxy
+Panasonic Aquarea ESP8266 Arduino WIFI Proxy
