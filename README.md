@@ -17,13 +17,13 @@ Then receive the response from heatpump and send it to the remote.<br>
 Todo: Figure out how to send own messages from esp to heatpump.<br>
 
 SerialProxy<br>
-https://github.com/vscope/geisha_aquarea_panasonic_arduino_esp8266_proxy/tree/master/GeishaSerialProxy
+https://github.com/v-s-c-o-p-e/geisha_aquarea_panasonic_arduino_esp8266_proxy/tree/master/GeishaSerialProxy
 
 Remote Dummy for Debugging:<br>
-https://github.com/vscope/geisha_aquarea_panasonic_arduino_esp8266_proxy/tree/master/GeishaSerialRemote
+https://github.com/v-s-c-o-p-e/geisha_aquarea_panasonic_arduino_esp8266_proxy/tree/master/GeishaSerialRemote
 
 Heatpump Dummy for Debugging:<br>
-https://github.com/vscope/geisha_aquarea_panasonic_arduino_esp8266_proxy/tree/master/GeishaSerialHeatPump
+https://github.com/v-s-c-o-p-e/geisha_aquarea_panasonic_arduino_esp8266_proxy/tree/master/GeishaSerialHeatPump
 
 Feel free to join.
 
